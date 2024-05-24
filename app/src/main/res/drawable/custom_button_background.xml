@@ -1,0 +1,8 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#007bff" /> <!-- Butonun arka plan rengi -->
+    <corners android:radius="8dp" /> <!-- Köşe yuvarlatma -->
+    <stroke
+        android:width="2dp"
+        android:color="#0056b3" /> <!-- Kenarlık rengi ve kalınlığı -->
+</shape>
