@@ -60,7 +60,7 @@ MapMate is an Android application that combines voice recognition, text-to-speec
 
 ## Permissions Required
 
-- Location access (Fine and Coarse)
+- Location access
 - Microphone access
 - Internet access
 
